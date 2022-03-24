@@ -1,0 +1,27 @@
+
+body {
+   
+    background-image: url("intereses.jpg");
+       
+       background-color: rgb(241, 231, 207);
+   
+    }
+
+    
+img{
+   display: block;
+   margin: 0px auto;
+  }
+
+h1 {
+   color: rgb(33, 77, 66);
+   text-align: center;
+   font-family: 'Playfair Display', serif;
+  }
+  h2
+  {
+    Color: rgb(223, 98, 160);
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    
+   } 

@@ -1,0 +1,31 @@
+body {
+   
+    background-image: url("index.jpg");
+       
+       background-color: rgb(241, 231, 207);
+   
+    }
+    h1 {
+        color: rgb(236, 184, 124);
+        text-align: center;
+        font-family: 'Playfair Display', serif;
+       }
+    
+       img{
+          display: block;
+          margin: 0px auto;
+         }
+
+         tr{ 
+            border: 10px dotted rgb(188, 223, 193);
+            margin-top: 50px;
+            margin-bottom: 50px;
+            margin-right: 50px;
+            margin-left: 50px;
+            background-color: rgb(255, 237, 217);
+            padding: 50px;
+            color: rgb(238, 179, 123);
+            text-align: center;
+            font-size: 30px;
+            font-family: Times New Roman' 
+           }
